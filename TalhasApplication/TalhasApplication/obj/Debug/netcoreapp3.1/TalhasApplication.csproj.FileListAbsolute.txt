@@ -1,0 +1,26 @@
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.exe
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.deps.json
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.runtimeconfig.json
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.runtimeconfig.dev.json
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.dll
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.pdb
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.csprojAssemblyReference.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.AssemblyInfoInputs.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.AssemblyInfo.cs
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.dll
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.pdb
+D:\MY PROJECTS\Programming Career\Visual Programming\Talha Repository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.genruntimeconfig.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.exe
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.deps.json
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.runtimeconfig.json
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.runtimeconfig.dev.json
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.dll
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\bin\Debug\netcoreapp3.1\TalhasApplication.pdb
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.csprojAssemblyReference.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.AssemblyInfoInputs.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.AssemblyInfo.cs
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.dll
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.pdb
+D:\MY PROJECTS\Programming Career\Visual Programming\TalhaRepository\TalhasApplication\TalhasApplication\obj\Debug\netcoreapp3.1\TalhasApplication.genruntimeconfig.cache
