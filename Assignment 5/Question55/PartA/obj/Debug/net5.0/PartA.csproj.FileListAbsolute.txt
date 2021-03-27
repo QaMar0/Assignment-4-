@@ -1,0 +1,16 @@
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.csprojAssemblyReference.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.exe
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.deps.json
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.runtimeconfig.json
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\ref\PartA.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\bin\Debug\net5.0\PartA.pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\ref\PartA.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question55\PartA\obj\Debug\net5.0\PartA.genruntimeconfig.cache

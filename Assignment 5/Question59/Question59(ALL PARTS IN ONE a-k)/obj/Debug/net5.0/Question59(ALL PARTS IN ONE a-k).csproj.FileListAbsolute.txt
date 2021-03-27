@@ -1,0 +1,16 @@
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).exe
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).deps.json
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).runtimeconfig.json
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).dll
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\ref\Question59(ALL PARTS IN ONE a-k).dll
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\bin\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).csprojAssemblyReference.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).dll
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\ref\Question59(ALL PARTS IN ONE a-k).dll
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question59\Question59(ALL PARTS IN ONE a-k)\obj\Debug\net5.0\Question59(ALL PARTS IN ONE a-k).genruntimeconfig.cache

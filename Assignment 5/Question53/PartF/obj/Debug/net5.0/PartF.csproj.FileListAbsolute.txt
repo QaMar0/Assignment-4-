@@ -1,0 +1,16 @@
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.exe
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.deps.json
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.runtimeconfig.json
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.runtimeconfig.dev.json
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.dll
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\ref\PartF.dll
+C:\Users\Johnny Bravo\source\repos\PartF\bin\Debug\net5.0\PartF.pdb
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.csprojAssemblyReference.cache
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.AssemblyInfoInputs.cache
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.AssemblyInfo.cs
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.csproj.CoreCompileInputs.cache
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.dll
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\ref\PartF.dll
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.pdb
+C:\Users\Johnny Bravo\source\repos\PartF\obj\Debug\net5.0\PartF.genruntimeconfig.cache

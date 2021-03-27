@@ -1,0 +1,16 @@
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.exe
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.deps.json
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.runtimeconfig.json
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.runtimeconfig.dev.json
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\ref\Question52.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question52\bin\Debug\net5.0\Question52.pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.AssemblyInfoInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.AssemblyInfo.cs
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.csproj.CoreCompileInputs.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\ref\Question52.dll
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.pdb
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.genruntimeconfig.cache
+D:\MY PROJECTS\REPO\Assignment 5\Question52\obj\Debug\net5.0\Question52.csprojAssemblyReference.cache
